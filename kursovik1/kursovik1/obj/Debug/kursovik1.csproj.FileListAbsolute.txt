@@ -1,0 +1,16 @@
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\bin\Debug\kursovik1.exe.config
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\bin\Debug\kursovik1.exe
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\bin\Debug\kursovik1.pdb
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\obj\Debug\kursovik1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\obj\Debug\kursovik1.MainForm.resources
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\obj\Debug\kursovik1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\obj\Debug\kursovik1.exe
+C:\Users\Андрей\Documents\SharpDevelop Projects\kursovik1\kursovik1\obj\Debug\kursovik1.pdb
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\bin\Debug\kursovoy.exe.config
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\bin\Debug\kursovoy.exe
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\bin\Debug\kursovoy.pdb
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\obj\Debug\kursovik1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\obj\Debug\kursovik1.MainForm.resources
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\obj\Debug\kursovik1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\obj\Debug\kursovoy.exe
+C:\Users\Андрей\Desktop\kursovik1\kursovik1\obj\Debug\kursovoy.pdb
